@@ -1,1 +1,1 @@
-# Image-Enhancement-and-Super-Ressolution
+# Image-Enhancement-and-Super-Resolution
