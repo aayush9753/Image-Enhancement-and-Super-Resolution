@@ -26,4 +26,22 @@ fidelity is produced. The results are validated through extensive experimentatio
 shows the method's effectiveness to improve images based on PSNR and SSIM scores.
 
 ![image](https://user-images.githubusercontent.com/62867511/193403120-6614473b-676d-43ca-8483-d77a786e4f41.png)
+![image](https://user-images.githubusercontent.com/62867511/193403145-24cdfc80-746a-450e-9d02-34e46d829c73.png)
+
+# Architecture
+![image](https://user-images.githubusercontent.com/62867511/193403159-a86da27d-3720-44b3-a959-89978c6779a9.png)
+![image](https://user-images.githubusercontent.com/62867511/193403186-a76d28b6-6e2b-4785-838b-39191ad7ed71.png)
+![image](https://user-images.githubusercontent.com/62867511/193403205-3c025b37-8919-42ba-992e-157b6f2d9a33.png)
+![image](https://user-images.githubusercontent.com/62867511/193403217-e2655cd2-308a-4472-92e8-3ecbd7cf5ed8.png)
+![image](https://user-images.githubusercontent.com/62867511/193403233-309a531b-3759-4b70-a91e-59d46677fdb3.png)
+![image](https://user-images.githubusercontent.com/62867511/193403250-07dabdac-a027-47a5-8481-ce06c4dc74aa.png)
+![image](https://user-images.githubusercontent.com/62867511/193403263-a2538c49-ef18-4a1a-a576-4318b6b03b76.png)
+![image](https://user-images.githubusercontent.com/62867511/193403275-a71d82d2-d4d8-4197-9278-1a3dfb5e730b.png)
+![image](https://user-images.githubusercontent.com/62867511/193403301-cdaf6309-f6b1-44ad-9043-3c82aa903bc8.png)
+
+
+
+
+
+
 
