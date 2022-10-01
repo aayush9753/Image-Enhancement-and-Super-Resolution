@@ -24,3 +24,6 @@ better lighting and resolution. After this processing, the images will be scaled
 corresponding low-resolution images, and an image with improved visual perception and 
 fidelity is produced. The results are validated through extensive experimentation, which 
 shows the method's effectiveness to improve images based on PSNR and SSIM scores.
+
+![image](https://user-images.githubusercontent.com/62867511/193403120-6614473b-676d-43ca-8483-d77a786e4f41.png)
+
